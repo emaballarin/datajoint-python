@@ -1,12 +1,12 @@
 numpy
-pymysql>=0.7.2
+pymysql
 pyparsing
 ipython
 pandas
 tqdm
-networkx<=2.6.3  # until py3.8 is our minimum version
+networkx
 pydot
-minio>=7.0.0
+minio
 matplotlib
 cryptography
 otumat
